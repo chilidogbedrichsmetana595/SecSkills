@@ -29,6 +29,23 @@
 | AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
 |  sec-skills | 安全研究 Skills 仓库，专注于防御性安全研究工具集。 | [sec-skills](https://github.com/Rvn0xsy/sec-skills?tab=readme-ov-file) |
 | Code Audit | 专业白盒代码安全审计技能，覆盖 55+ 漏洞类型，双轨审计模型，多 Agent 深度分析。 | [Code Audit](https://github.com/3stoneBrother/code-audit/blob/main/README_CN.md) |
+| hello_js_reverse_skill | 面向逆向分析与爬虫对抗场景的 Skill，围绕 camoufox-reverse MCP 构建单一工作流：先用 Camoufox 反检测浏览器完成网络捕获、源码定位、Hook 调试与反检测验证，再按需落地到 Node.js 或 Python 算法还原与自动化调用。 | [hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) |
+| JS Reverse MCP | JavaScript 逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Copilot）能够调试和分析网页中的 JavaScript 代码。 | [JS Reverse MCP](https://github.com/zhizhuodemao/js-reverse-mcp/tree/main) |
+| reverse-skills | 逆向工程技能集 (Reverse Engineering Skills) ，为 Claude Code 提供逆向工程分析技能的插件市场。 | [reverse-skills](https://github.com/P4nda0s/reverse-skills) |
+| ghsa-skill-builder | 让 Claude 自动将 GitHub 公开漏洞数据库和 HackerOne Bug Bounty 报告转化为代码审计/渗透测试专用的结构化安全技能（Skills） | [ghsa-skill-builder](https://github.com/yhy0/ghsa-skill-builder) |
+| dfyx_skills_lab | 安全报告编写助手是一款专注于网络安全领域的智能报告生成工具，能够基于漏洞编号、名称或安全扫描工具报告，自动生成符合行业标准的漏洞分析报告，包含漏洞背景、漏洞描述、漏洞原理、漏洞利用条件和修复要求等核心内容，帮助安全从业者快速生成标准化、专业的安全报告。 | [dfyx_skills_lab](https://github.com/EastSword/dfyx_skills_lab/tree/main/security_reporter) |
+| skill-dfyx_code_security_review | dfyx_code_security_review 是为 Claude Code、Trae 等 AI 客户端设计的专业代码安全审计 Skill。采用白盒静态分析方法论，通过五阶段标准化审计协议，系统性发现和验证源代码中的安全漏洞。 | [skill-dfyx_code_security_review](https://github.com/EastSword/dfyx_skills_lab/tree/main/skill-dfyx_code_security_review) |
+| skill-dfyx_code_security_review | dfyx_code_security_review 是为 Claude Code、Trae 等 AI 客户端设计的专业代码安全审计 Skill。采用白盒静态分析方法论，通过五阶段标准化审计协议，系统性发现和验证源代码中的安全漏洞。 | [skill-dfyx_code_security_review](https://github.com/EastSword/dfyx_skills_lab/tree/main/skill-dfyx_code_security_review) |
+| pentest-skills | 自动化渗透agent skills | [pentest-skills](https://github.com/Jumbo-WJB/pentest-skills) |
+| Security Auditor | 用于审查代码安全漏洞、实施认证流程、审计 OWASP 十大、配置 CORS/CSP 头、处理密钥、输入验证、SQL 注入防护、XSS 保护或任何安全相关的代码审查。 | [Security Auditor](https://clawhub.ai/jgarrison929/security-auditor) |
+| Security Audit Toolkit | 审计代码库和基础设施以防安全问题。用于扫描依赖漏洞、检测硬编码秘密、检查 OWASP 十大问题、验证 SSL/TLS、审计文件权限，或审查代码注入和认证漏洞。 | [Security Audit Toolkit
+](https://clawhub.ai/gitgoodordietrying/security-audit-toolkit) |
+| Pentest Api Attacker | 测试针对 OWASP API 安全前十名的 API，包括发现、认证滥用和协议特定检查。 | [Pentest Api Attacker](https://clawhub.ai/0x-professor/pentest-api-attacker) |
+| Pentest Auth Bypass | 测试针对绕过和账户接管场景的身份验证和会话管理控制。 | [Pentest Auth Bypass](https://clawhub.ai/0x-professor/pentest-auth-bypass) |
+| Pentest Active Directory | 评估 Active Directory 身份攻击路径，包括烘焙、中继和委托滥用。| [Pentest Active Directory](https://clawhub.ai/0x-professor/pentest-active-directory) |
+| Nmap Pentest Scans | 规划并协调授权的 Nmap 主机发现、端口和服务枚举、NSE 分析及范围内目标的报告成果。 | [Nmap Pentest Scans](https://clawhub.ai/0x-professor/nmap-pentest-scans) |
+| Security Scanner | 为网络应用、API 和基础设施提供自动化安全扫描和漏洞检测。当你需要扫描目标漏洞、检查 SSL 证书、寻找未开放端口、检测配置错误或进行安全审计时使用。可集成 nmap、nuclei 及其他安全工具。 | [Security Scanner](https://clawhub.ai/dmx64/security-scanner) |
+
 <br/><br/>
 
 # 娱乐相关
