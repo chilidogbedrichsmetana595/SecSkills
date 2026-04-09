@@ -38,8 +38,7 @@
 | skill-dfyx_code_security_review | dfyx_code_security_review 是为 Claude Code、Trae 等 AI 客户端设计的专业代码安全审计 Skill。采用白盒静态分析方法论，通过五阶段标准化审计协议，系统性发现和验证源代码中的安全漏洞。 | [skill-dfyx_code_security_review](https://github.com/EastSword/dfyx_skills_lab/tree/main/skill-dfyx_code_security_review) |
 | pentest-skills | 自动化渗透agent skills | [pentest-skills](https://github.com/Jumbo-WJB/pentest-skills) |
 | Security Auditor | 用于审查代码安全漏洞、实施认证流程、审计 OWASP 十大、配置 CORS/CSP 头、处理密钥、输入验证、SQL 注入防护、XSS 保护或任何安全相关的代码审查。 | [Security Auditor](https://clawhub.ai/jgarrison929/security-auditor) |
-| Security Audit Toolkit | 审计代码库和基础设施以防安全问题。用于扫描依赖漏洞、检测硬编码秘密、检查 OWASP 十大问题、验证 SSL/TLS、审计文件权限，或审查代码注入和认证漏洞。 | [Security Audit Toolkit
-](https://clawhub.ai/gitgoodordietrying/security-audit-toolkit) |
+| Security Audit Toolkit | 审计代码库和基础设施以防安全问题。用于扫描依赖漏洞、检测硬编码秘密、检查 OWASP 十大问题、验证 SSL/TLS、审计文件权限，或审查代码注入和认证漏洞。 | [Security Audit Toolkit](https://clawhub.ai/gitgoodordietrying/security-audit-toolkit) |
 | Pentest Api Attacker | 测试针对 OWASP API 安全前十名的 API，包括发现、认证滥用和协议特定检查。 | [Pentest Api Attacker](https://clawhub.ai/0x-professor/pentest-api-attacker) |
 | Pentest Auth Bypass | 测试针对绕过和账户接管场景的身份验证和会话管理控制。 | [Pentest Auth Bypass](https://clawhub.ai/0x-professor/pentest-auth-bypass) |
 | Pentest Active Directory | 评估 Active Directory 身份攻击路径，包括烘焙、中继和委托滥用。| [Pentest Active Directory](https://clawhub.ai/0x-professor/pentest-active-directory) |
