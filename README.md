@@ -31,7 +31,9 @@ CTF	1
 
 MCP 1
 
-共计 52 个
+安全研究 1
+
+共计 53 个
 
 # 安全相关
 
@@ -76,6 +78,7 @@ MCP 1
 | Nmap Pentest Scans | 规划并协调授权的 Nmap 主机发现、端口和服务枚举、NSE 分析及范围内目标的报告成果。 | [Nmap Pentest Scans](https://clawhub.ai/0x-professor/nmap-pentest-scans) |
 | Security Scanner | 为网络应用、API 和基础设施提供自动化安全扫描和漏洞检测。当你需要扫描目标漏洞、检查 SSL 证书、寻找未开放端口、检测配置错误或进行安全审计时使用。可集成 nmap、nuclei 及其他安全工具。 | [Security Scanner](https://clawhub.ai/dmx64/security-scanner) |
 | wxmini-security-audit | 微信小程序全自动安全审计 Skill，基于 Claude Code Agent Teams。7 Agent 协作，覆盖敏感信息、API接口、加密分析、漏洞分析四大维度。采用脚本+LLM双层架构，脚本保证覆盖率，LLM保证准确率。 | [wxmini-security-audit](https://github.com/sssmmmwww/wxmini-security-audit) |
+| DeFiHackLabs-skill | 基于 DeFiHackLabs 的真实攻击案例与复现资料，沉淀出可复用的漏洞分析流程、分类方法与防御要点，便于安全研究、审计与快速定位问题。 | [DeFiHackLabs-skill](https://github.com/HToTH/DeFiHackLabs-skill) |
 
 <br/>
 
